@@ -1,5 +1,5 @@
 name: 'gh-action-rl-scanner-composite'
-author: 'Maarten Boot'
+author: 'ReversingLabs'
 description: 'Apply reversinglabs/rl-scanner to a artifact, upload report, upload SARIF, show status and return'
 
 branding:
